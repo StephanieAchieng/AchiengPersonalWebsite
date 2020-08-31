@@ -332,9 +332,24 @@ h2 {
   text-decoration: none;
 }
 .dev-card img {
-  height: 80%;
+  width:340px;
+  height:340px;
+ /* padding-bottom: 20px;
+  padding-left: 20px;
+  margin-bottom: 20px;*/
+  padding: 0px 0px 0px 0px;
+  margin: 0 auto;
+  padding: 10px;
+
+
+
 }
-/* testimonial section */
+.card h-100{
+  width:300px;
+  height:300px;
+}
+
+/* testimonial section 
 /*@import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 *,
